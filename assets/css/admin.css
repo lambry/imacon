@@ -1,0 +1,18 @@
+/* Admin Styles */
+
+.image-widget-row {
+	margin: 1em 0;
+}
+.image-widget-preview {
+	background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.1) inset;
+    margin-bottom: 1em;
+    padding: 1em;
+    text-align: center;
+    cursor: pointer;
+}
+.image-widget-preview img {
+	max-width: 100%;
+	height: auto;
+}

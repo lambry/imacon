@@ -485,8 +485,8 @@ $icons_array = [
     'youtube-square' => __( 'Youtube Square', 'mild-iw' )
 ];
 
-foreach ( $icons_array as $icon ) : ?>
+foreach ( $icons_array as $icon => $name ) : ?>
 
-    <option value="<?php echo $icon; ?>" <?php selected( $icon, $iw_icon ); ?>><?php echo $icon; ?></option>
+    <option value="<?php echo $icon; ?>" <?php selected( $icon, $iw_icon ); ?>><?php echo $name; ?></option>
     
 <?php endforeach; 

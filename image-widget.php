@@ -86,12 +86,12 @@ class Init extends \WP_Widget {
 
     // Registers and enqueues admin-specific styles.
     public function register_admin_styles() {
-        wp_enqueue_style( 'image-widget-admin-styles', plugin_dir_url( __FILE__ ) . '/assets/css/admin.css' );
+        wp_enqueue_style( 'image-widget-admin-styles', plugin_dir_url( __FILE__ ) . 'assets/css/admin.css' );
     }
     // Registers and enqueues admin-specific JavaScript.
     public function register_admin_scripts() {
         wp_enqueue_media();
-        wp_enqueue_script( 'image-widget-admin-script', plugin_dir_url( __FILE__ ) . '/assets/js/admin.js', ['jquery'] );
+        wp_enqueue_script( 'image-widget-admin-script', plugin_dir_url( __FILE__ ) . 'assets/js/admin.js', ['jquery'] );
     }
 
 }

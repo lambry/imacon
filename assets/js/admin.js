@@ -17,13 +17,11 @@
 				e.preventDefault();
 				var container = $( this ).parents( '.image-widget-container' );
 				var frame = wp.media({
-					title:    'Select an image',
 					library:  { type : 'image' },
-					button:   { text : 'Select' },
 					multiple: false
 				});
 				// Handle results from media manager.
-				frame.on( 'close', function() {
+				frame.on( 'select', function() {
 					var attachment = frame.state().get( 'selection' ).toJSON();
 					if ( $.isEmptyObject( attachment ) ) return;
 					ImageWidget.update( container, attachment[0] );

@@ -11,6 +11,7 @@ $image_src = ( $image_src ) ? $image_src[0] : $placeholder; ?>
 <div class="image-widget-container">
     <div class="image-widget-row">
         <div class="image-widget-preview"><img src="<?php echo $image_src; ?>"></div>
+        <span class="image-widget-remove-image hidden">x</span>
         <input type="hidden" id="<?php echo $this->get_field_id( 'iw_image' ); ?>" name="<?php echo $this->get_field_name( 'iw_image' ); ?>" value="<?php echo $iw_image; ?>" class="image-widget-image" />
         <button class="image-widget-select button button-primary button-hero widefat"><?php _e( 'Select Image', 'mild-iw' ); ?></button>
     </div>

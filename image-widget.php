@@ -28,10 +28,10 @@ class Init extends \WP_Widget {
         // Widget details
         parent::__construct(
             'image-widget',
-            __( 'Image Widget', 'mild' ),
+            __( 'Image Widget', 'mild-iw' ),
             [
                 'classname'   => 'image-widget',
-                'description' => __( 'Adds an image (or icon) with optional title, description and link.', 'mild' )
+                'description' => __( 'Adds an image (or icon) with optional title, description and link.', 'mild-iw' )
             ]
         );
 

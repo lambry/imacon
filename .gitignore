@@ -8,10 +8,9 @@
 *.swp
 *.vi
 *~
-*.mo
 *.sass-cache
 
-# Ignored OS and Editor folders
+# OS or Editor folders
 .DS_Store
 Thumbs.db
 .cache
@@ -22,3 +21,14 @@ Thumbs.db
 nbproject
 *.sublime-project
 *.sublime-workspace
+
+# Folders to ignore
+node_modules
+intermediate
+cache
+.hg
+.svn
+.CVS
+.idea
+.sass-cache
+.idea/

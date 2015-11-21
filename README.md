@@ -1,5 +1,3 @@
-#Mild Image Widget
+#Imacon
 
-A simple image widget that displays an image (or icon) with optional title, description and link.
-
-Note: This is a work in progress and can break at anytime.
+A sortable widget that displays an image/icon with optional title and description.

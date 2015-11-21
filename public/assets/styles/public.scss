@@ -1,0 +1,15 @@
+/* =Public Styles
+-------------------------------------------------------------- */
+
+.imacon {
+	&-icon {
+		display: block;
+		font-size: 5rem;
+	}
+	&-icon, &-image {
+		text-align: center;
+	}
+	&-title, &-content, &-image, &-icon, &-image {
+		margin: 1rem 0;
+	}
+}

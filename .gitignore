@@ -31,4 +31,5 @@ cache
 .CVS
 .idea
 .sass-cache
-.idea/
+.codekit-cache
+.idea

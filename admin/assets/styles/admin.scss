@@ -1,0 +1,85 @@
+/* =Admin Styles
+-------------------------------------------------------------- */
+
+$color-red: #F52911;
+$color-grey: #bbbbbb;
+$color-silver: #dddddd;
+$color-white: #fcfcfc;
+
+/* Main Styles */
+.imacon {
+    /* Fields */
+    .imacon-field {
+        position: relative;
+        padding: 0 0.5em;
+        &-hidden {
+            display: none;
+        }
+    }
+    /* Sorting */
+    &-sortable {
+        padding-bottom: 1em;
+        border-bottom: 1px solid $color-grey;
+        .imacon-field:before {
+            cursor: move;
+            color: $color-grey;
+            content: "\f0c9";
+            font-family: FontAwesome;
+            font-size: 0.75em;
+            position: absolute;
+            top: 0.4em;
+            left: -0.5em;
+            z-index: 1;
+        }
+    }
+    &-sort-gap {
+        height: 2em;
+        margin: 1em 0;
+        margin-bottom: 1.5em;
+        background-color: $color-white;
+        border: 1px dashed $color-silver;
+        border-radius: 3px;
+    }
+    /* Image */
+    &-image-wrap {
+        margin: 1em 0;
+        position: relative;
+    }
+    &-preview {
+        background-color: $color-white;
+        border: 1px solid $color-silver;
+        box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.1) inset;
+        margin-bottom: 1em;
+        padding: 1em;
+        text-align: center;
+        cursor: pointer;
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    }
+    &-remove-image {
+        position: absolute;
+        top: -0.5em;
+        right: 0;
+        color: $color-white;
+        line-height: 1.1;
+        cursor: pointer;
+        padding: 0 0.4em 0.25em;
+        background-color: $color-red;
+        border-radius: 50%;
+    }
+    /* Select2 */
+    .select2 {
+        li {
+            margin-bottom: 0;
+        }
+        .select2-selection--single,
+        .select2-selection--multiple {
+            border-color: $color-silver;
+        }
+        .select2-container--focus .select2-selection--multiple {
+            border-color: darken($color-silver, 2.5%);
+        }
+    }
+}

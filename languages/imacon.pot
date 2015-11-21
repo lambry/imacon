@@ -1,0 +1,2398 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: imacon\n"
+"POT-Creation-Date: 2015-11-21 14:28+1100\n"
+"PO-Revision-Date: 2014-09-25 18:39+1000\n"
+"Last-Translator: David Featherston\n"
+"Language-Team: \n"
+"Language: en_AU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: includes/**/*\n"
+
+#: admin/includes/fields.php:147
+msgid "-- select --"
+msgstr ""
+
+#: imacon.php:26
+msgid "Imacon"
+msgstr ""
+
+#: imacon.php:28
+msgid "Add an image/icon with title, description and link."
+msgstr ""
+
+#: includes/defaults.php:74
+msgid "500px"
+msgstr ""
+
+#: includes/defaults.php:75
+msgid "Adjust"
+msgstr ""
+
+#: includes/defaults.php:76
+msgid "Adn"
+msgstr ""
+
+#: includes/defaults.php:77
+msgid "Align Center"
+msgstr ""
+
+#: includes/defaults.php:78
+msgid "Align Justify"
+msgstr ""
+
+#: includes/defaults.php:79
+msgid "Align Left"
+msgstr ""
+
+#: includes/defaults.php:80
+msgid "Align Right"
+msgstr ""
+
+#: includes/defaults.php:81
+msgid "Amazon"
+msgstr ""
+
+#: includes/defaults.php:82
+msgid "Ambulance"
+msgstr ""
+
+#: includes/defaults.php:83
+msgid "Anchor"
+msgstr ""
+
+#: includes/defaults.php:84
+msgid "Android"
+msgstr ""
+
+#: includes/defaults.php:85
+msgid "Angellist"
+msgstr ""
+
+#: includes/defaults.php:86
+msgid "Angle Double Down"
+msgstr ""
+
+#: includes/defaults.php:87
+msgid "Angle Double Left"
+msgstr ""
+
+#: includes/defaults.php:88
+msgid "Angle Double Right"
+msgstr ""
+
+#: includes/defaults.php:89
+msgid "Angle Double Up"
+msgstr ""
+
+#: includes/defaults.php:90
+msgid "Angle Down"
+msgstr ""
+
+#: includes/defaults.php:91
+msgid "Angle Left"
+msgstr ""
+
+#: includes/defaults.php:92
+msgid "Angle Right"
+msgstr ""
+
+#: includes/defaults.php:93
+msgid "Angle Up"
+msgstr ""
+
+#: includes/defaults.php:94
+msgid "Apple"
+msgstr ""
+
+#: includes/defaults.php:95
+msgid "Archive"
+msgstr ""
+
+#: includes/defaults.php:96
+msgid "Area Chart"
+msgstr ""
+
+#: includes/defaults.php:97
+msgid "Arrow Circle Down"
+msgstr ""
+
+#: includes/defaults.php:98
+msgid "Arrow Circle Left"
+msgstr ""
+
+#: includes/defaults.php:99
+msgid "Arrow Circle O Down"
+msgstr ""
+
+#: includes/defaults.php:100
+msgid "Arrow Circle O Left"
+msgstr ""
+
+#: includes/defaults.php:101
+msgid "Arrow Circle O Right"
+msgstr ""
+
+#: includes/defaults.php:102
+msgid "Arrow Circle O Up"
+msgstr ""
+
+#: includes/defaults.php:103
+msgid "Arrow Circle Right"
+msgstr ""
+
+#: includes/defaults.php:104
+msgid "Arrow Circle Up"
+msgstr ""
+
+#: includes/defaults.php:105
+msgid "Arrow Down"
+msgstr ""
+
+#: includes/defaults.php:106
+msgid "Arrow Left"
+msgstr ""
+
+#: includes/defaults.php:107
+msgid "Arrow Right"
+msgstr ""
+
+#: includes/defaults.php:108
+msgid "Arrow Up"
+msgstr ""
+
+#: includes/defaults.php:109
+msgid "Arrows"
+msgstr ""
+
+#: includes/defaults.php:110
+msgid "Arrows Alt"
+msgstr ""
+
+#: includes/defaults.php:111
+msgid "Arrows H"
+msgstr ""
+
+#: includes/defaults.php:112
+msgid "Arrows V"
+msgstr ""
+
+#: includes/defaults.php:113
+msgid "Asterisk"
+msgstr ""
+
+#: includes/defaults.php:114
+msgid "At"
+msgstr ""
+
+#: includes/defaults.php:115
+msgid "Backward"
+msgstr ""
+
+#: includes/defaults.php:116
+msgid "Balance Scale"
+msgstr ""
+
+#: includes/defaults.php:117
+msgid "Ban"
+msgstr ""
+
+#: includes/defaults.php:118
+msgid "Bar Chart"
+msgstr ""
+
+#: includes/defaults.php:119
+msgid "Barcode"
+msgstr ""
+
+#: includes/defaults.php:120
+msgid "Bars"
+msgstr ""
+
+#: includes/defaults.php:121
+msgid "Battery Empty"
+msgstr ""
+
+#: includes/defaults.php:122
+msgid "Battery Full"
+msgstr ""
+
+#: includes/defaults.php:123
+msgid "Battery Half"
+msgstr ""
+
+#: includes/defaults.php:124
+msgid "Battery Quarter"
+msgstr ""
+
+#: includes/defaults.php:125
+msgid "Battery Three Quarters"
+msgstr ""
+
+#: includes/defaults.php:126
+msgid "Bed"
+msgstr ""
+
+#: includes/defaults.php:127
+msgid "Beer"
+msgstr ""
+
+#: includes/defaults.php:128
+msgid "Behance"
+msgstr ""
+
+#: includes/defaults.php:129
+msgid "Behance Square"
+msgstr ""
+
+#: includes/defaults.php:130
+msgid "Bell"
+msgstr ""
+
+#: includes/defaults.php:131
+msgid "Bell O"
+msgstr ""
+
+#: includes/defaults.php:132
+msgid "Bell Slash"
+msgstr ""
+
+#: includes/defaults.php:133
+msgid "Bell Slash O"
+msgstr ""
+
+#: includes/defaults.php:134
+msgid "Bicycle"
+msgstr ""
+
+#: includes/defaults.php:135
+msgid "Binoculars"
+msgstr ""
+
+#: includes/defaults.php:136
+msgid "Birthday Cake"
+msgstr ""
+
+#: includes/defaults.php:137
+msgid "Bitbucket"
+msgstr ""
+
+#: includes/defaults.php:138
+msgid "Bitbucket Square"
+msgstr ""
+
+#: includes/defaults.php:139
+msgid "Black Tie"
+msgstr ""
+
+#: includes/defaults.php:140
+msgid "Bold"
+msgstr ""
+
+#: includes/defaults.php:141
+msgid "Bolt"
+msgstr ""
+
+#: includes/defaults.php:142
+msgid "Bomb"
+msgstr ""
+
+#: includes/defaults.php:143
+msgid "Book"
+msgstr ""
+
+#: includes/defaults.php:144
+msgid "Bookmark"
+msgstr ""
+
+#: includes/defaults.php:145
+msgid "Bookmark O"
+msgstr ""
+
+#: includes/defaults.php:146
+msgid "Briefcase"
+msgstr ""
+
+#: includes/defaults.php:147
+msgid "Btc"
+msgstr ""
+
+#: includes/defaults.php:148
+msgid "Bug"
+msgstr ""
+
+#: includes/defaults.php:149
+msgid "Building"
+msgstr ""
+
+#: includes/defaults.php:150
+msgid "Building O"
+msgstr ""
+
+#: includes/defaults.php:151
+msgid "Bullhorn"
+msgstr ""
+
+#: includes/defaults.php:152
+msgid "Bullseye"
+msgstr ""
+
+#: includes/defaults.php:153
+msgid "Bus"
+msgstr ""
+
+#: includes/defaults.php:154
+msgid "Buysellads"
+msgstr ""
+
+#: includes/defaults.php:155
+msgid "Calculator"
+msgstr ""
+
+#: includes/defaults.php:156
+msgid "Calendar"
+msgstr ""
+
+#: includes/defaults.php:157
+msgid "Calendar Check O"
+msgstr ""
+
+#: includes/defaults.php:158
+msgid "Calendar Minus O"
+msgstr ""
+
+#: includes/defaults.php:159
+msgid "Calendar O"
+msgstr ""
+
+#: includes/defaults.php:160
+msgid "Calendar Plus O"
+msgstr ""
+
+#: includes/defaults.php:161
+msgid "Calendar Times O"
+msgstr ""
+
+#: includes/defaults.php:162
+msgid "Camera"
+msgstr ""
+
+#: includes/defaults.php:163
+msgid "Camera Retro"
+msgstr ""
+
+#: includes/defaults.php:164
+msgid "Car"
+msgstr ""
+
+#: includes/defaults.php:165
+msgid "Caret Down"
+msgstr ""
+
+#: includes/defaults.php:166
+msgid "Caret Left"
+msgstr ""
+
+#: includes/defaults.php:167
+msgid "Caret Right"
+msgstr ""
+
+#: includes/defaults.php:168
+msgid "Caret Square O Down"
+msgstr ""
+
+#: includes/defaults.php:169
+msgid "Caret Square O Left"
+msgstr ""
+
+#: includes/defaults.php:170
+msgid "Caret Square O Right"
+msgstr ""
+
+#: includes/defaults.php:171
+msgid "Caret Square O Up"
+msgstr ""
+
+#: includes/defaults.php:172
+msgid "Caret Up"
+msgstr ""
+
+#: includes/defaults.php:173
+msgid "Cart Arrow Down"
+msgstr ""
+
+#: includes/defaults.php:174
+msgid "Cart Plus"
+msgstr ""
+
+#: includes/defaults.php:175
+msgid "Cc"
+msgstr ""
+
+#: includes/defaults.php:176
+msgid "Cc Amex"
+msgstr ""
+
+#: includes/defaults.php:177
+msgid "Cc Diners Club"
+msgstr ""
+
+#: includes/defaults.php:178
+msgid "Cc Discover"
+msgstr ""
+
+#: includes/defaults.php:179
+msgid "Cc Jcb"
+msgstr ""
+
+#: includes/defaults.php:180
+msgid "Cc Mastercard"
+msgstr ""
+
+#: includes/defaults.php:181
+msgid "Cc Paypal"
+msgstr ""
+
+#: includes/defaults.php:182
+msgid "Cc Stripe"
+msgstr ""
+
+#: includes/defaults.php:183
+msgid "Cc Visa"
+msgstr ""
+
+#: includes/defaults.php:184
+msgid "Certificate"
+msgstr ""
+
+#: includes/defaults.php:185
+msgid "Chain Broken"
+msgstr ""
+
+#: includes/defaults.php:186
+msgid "Check"
+msgstr ""
+
+#: includes/defaults.php:187
+msgid "Check Circle"
+msgstr ""
+
+#: includes/defaults.php:188
+msgid "Check Circle O"
+msgstr ""
+
+#: includes/defaults.php:189
+msgid "Check Square"
+msgstr ""
+
+#: includes/defaults.php:190
+msgid "Check Square O"
+msgstr ""
+
+#: includes/defaults.php:191
+msgid "Chevron Circle Down"
+msgstr ""
+
+#: includes/defaults.php:192
+msgid "Chevron Circle Left"
+msgstr ""
+
+#: includes/defaults.php:193
+msgid "Chevron Circle Right"
+msgstr ""
+
+#: includes/defaults.php:194
+msgid "Chevron Circle Up"
+msgstr ""
+
+#: includes/defaults.php:195
+msgid "Chevron Down"
+msgstr ""
+
+#: includes/defaults.php:196
+msgid "Chevron Left"
+msgstr ""
+
+#: includes/defaults.php:197
+msgid "Chevron Right"
+msgstr ""
+
+#: includes/defaults.php:198
+msgid "Chevron Up"
+msgstr ""
+
+#: includes/defaults.php:199
+msgid "Child"
+msgstr ""
+
+#: includes/defaults.php:200
+msgid "Chrome"
+msgstr ""
+
+#: includes/defaults.php:201
+msgid "Circle"
+msgstr ""
+
+#: includes/defaults.php:202
+msgid "Circle O"
+msgstr ""
+
+#: includes/defaults.php:203
+msgid "Circle O Notch"
+msgstr ""
+
+#: includes/defaults.php:204
+msgid "Circle Thin"
+msgstr ""
+
+#: includes/defaults.php:205
+msgid "Clipboard"
+msgstr ""
+
+#: includes/defaults.php:206
+msgid "Clock O"
+msgstr ""
+
+#: includes/defaults.php:207
+msgid "Clone"
+msgstr ""
+
+#: includes/defaults.php:208
+msgid "Cloud"
+msgstr ""
+
+#: includes/defaults.php:209
+msgid "Cloud Download"
+msgstr ""
+
+#: includes/defaults.php:210
+msgid "Cloud Upload"
+msgstr ""
+
+#: includes/defaults.php:211
+msgid "Code"
+msgstr ""
+
+#: includes/defaults.php:212
+msgid "Code Fork"
+msgstr ""
+
+#: includes/defaults.php:213
+msgid "Codepen"
+msgstr ""
+
+#: includes/defaults.php:214
+msgid "Coffee"
+msgstr ""
+
+#: includes/defaults.php:215
+msgid "Cog"
+msgstr ""
+
+#: includes/defaults.php:216
+msgid "Cogs"
+msgstr ""
+
+#: includes/defaults.php:217
+msgid "Columns"
+msgstr ""
+
+#: includes/defaults.php:218
+msgid "Comment"
+msgstr ""
+
+#: includes/defaults.php:219
+msgid "Comment O"
+msgstr ""
+
+#: includes/defaults.php:220
+msgid "Commenting"
+msgstr ""
+
+#: includes/defaults.php:221
+msgid "Commenting O"
+msgstr ""
+
+#: includes/defaults.php:222
+msgid "Comments"
+msgstr ""
+
+#: includes/defaults.php:223
+msgid "Comments O"
+msgstr ""
+
+#: includes/defaults.php:224
+msgid "Compass"
+msgstr ""
+
+#: includes/defaults.php:225
+msgid "Compress"
+msgstr ""
+
+#: includes/defaults.php:226
+msgid "Connectdevelop"
+msgstr ""
+
+#: includes/defaults.php:227
+msgid "Contao"
+msgstr ""
+
+#: includes/defaults.php:228
+msgid "Copyright"
+msgstr ""
+
+#: includes/defaults.php:229
+msgid "Creative Commons"
+msgstr ""
+
+#: includes/defaults.php:230
+msgid "Credit Card"
+msgstr ""
+
+#: includes/defaults.php:231
+msgid "Crop"
+msgstr ""
+
+#: includes/defaults.php:232
+msgid "Crosshairs"
+msgstr ""
+
+#: includes/defaults.php:233
+msgid "Css3"
+msgstr ""
+
+#: includes/defaults.php:234
+msgid "Cube"
+msgstr ""
+
+#: includes/defaults.php:235
+msgid "Cubes"
+msgstr ""
+
+#: includes/defaults.php:236
+msgid "Cutlery"
+msgstr ""
+
+#: includes/defaults.php:237
+msgid "Dashcube"
+msgstr ""
+
+#: includes/defaults.php:238
+msgid "Database"
+msgstr ""
+
+#: includes/defaults.php:239
+msgid "Delicious"
+msgstr ""
+
+#: includes/defaults.php:240
+msgid "Desktop"
+msgstr ""
+
+#: includes/defaults.php:241
+msgid "Deviantart"
+msgstr ""
+
+#: includes/defaults.php:242
+msgid "Diamond"
+msgstr ""
+
+#: includes/defaults.php:243
+msgid "Digg"
+msgstr ""
+
+#: includes/defaults.php:244
+msgid "Dot Circle O"
+msgstr ""
+
+#: includes/defaults.php:245
+msgid "Download"
+msgstr ""
+
+#: includes/defaults.php:246
+msgid "Dribbble"
+msgstr ""
+
+#: includes/defaults.php:247
+msgid "Dropbox"
+msgstr ""
+
+#: includes/defaults.php:248
+msgid "Drupal"
+msgstr ""
+
+#: includes/defaults.php:249
+msgid "Eject"
+msgstr ""
+
+#: includes/defaults.php:250
+msgid "Ellipsis H"
+msgstr ""
+
+#: includes/defaults.php:251
+msgid "Ellipsis V"
+msgstr ""
+
+#: includes/defaults.php:252
+msgid "Empire"
+msgstr ""
+
+#: includes/defaults.php:253
+msgid "Envelope"
+msgstr ""
+
+#: includes/defaults.php:254
+msgid "Envelope O"
+msgstr ""
+
+#: includes/defaults.php:255
+msgid "Envelope Square"
+msgstr ""
+
+#: includes/defaults.php:256
+msgid "Eraser"
+msgstr ""
+
+#: includes/defaults.php:257
+msgid "Eur"
+msgstr ""
+
+#: includes/defaults.php:258
+msgid "Exchange"
+msgstr ""
+
+#: includes/defaults.php:259
+msgid "Exclamation"
+msgstr ""
+
+#: includes/defaults.php:260
+msgid "Exclamation Circle"
+msgstr ""
+
+#: includes/defaults.php:261
+msgid "Exclamation Triangle"
+msgstr ""
+
+#: includes/defaults.php:262
+msgid "Expand"
+msgstr ""
+
+#: includes/defaults.php:263
+msgid "Expeditedssl"
+msgstr ""
+
+#: includes/defaults.php:264
+msgid "External Link"
+msgstr ""
+
+#: includes/defaults.php:265
+msgid "External Link Square"
+msgstr ""
+
+#: includes/defaults.php:266
+msgid "Eye"
+msgstr ""
+
+#: includes/defaults.php:267
+msgid "Eye Slash"
+msgstr ""
+
+#: includes/defaults.php:268
+msgid "Eyedropper"
+msgstr ""
+
+#: includes/defaults.php:269
+msgid "Facebook"
+msgstr ""
+
+#: includes/defaults.php:270
+msgid "Facebook Official"
+msgstr ""
+
+#: includes/defaults.php:271
+msgid "Facebook Square"
+msgstr ""
+
+#: includes/defaults.php:272
+msgid "Fast Backward"
+msgstr ""
+
+#: includes/defaults.php:273
+msgid "Fast Forward"
+msgstr ""
+
+#: includes/defaults.php:274
+msgid "Fax"
+msgstr ""
+
+#: includes/defaults.php:275
+msgid "Female"
+msgstr ""
+
+#: includes/defaults.php:276
+msgid "Fighter Jet"
+msgstr ""
+
+#: includes/defaults.php:277
+msgid "File"
+msgstr ""
+
+#: includes/defaults.php:278
+msgid "File Archive O"
+msgstr ""
+
+#: includes/defaults.php:279
+msgid "File Audio O"
+msgstr ""
+
+#: includes/defaults.php:280
+msgid "File Code O"
+msgstr ""
+
+#: includes/defaults.php:281
+msgid "File Excel O"
+msgstr ""
+
+#: includes/defaults.php:282
+msgid "File Image O"
+msgstr ""
+
+#: includes/defaults.php:283
+msgid "File O"
+msgstr ""
+
+#: includes/defaults.php:284
+msgid "File Pdf O"
+msgstr ""
+
+#: includes/defaults.php:285
+msgid "File Powerpoint O"
+msgstr ""
+
+#: includes/defaults.php:286
+msgid "File Text"
+msgstr ""
+
+#: includes/defaults.php:287
+msgid "File Text O"
+msgstr ""
+
+#: includes/defaults.php:288
+msgid "File Video O"
+msgstr ""
+
+#: includes/defaults.php:289
+msgid "File Word O"
+msgstr ""
+
+#: includes/defaults.php:290
+msgid "Files O"
+msgstr ""
+
+#: includes/defaults.php:291
+msgid "Film"
+msgstr ""
+
+#: includes/defaults.php:292
+msgid "Filter"
+msgstr ""
+
+#: includes/defaults.php:293
+msgid "Fire"
+msgstr ""
+
+#: includes/defaults.php:294
+msgid "Fire Extinguisher"
+msgstr ""
+
+#: includes/defaults.php:295
+msgid "Firefox"
+msgstr ""
+
+#: includes/defaults.php:296
+msgid "Flag"
+msgstr ""
+
+#: includes/defaults.php:297
+msgid "Flag Checkered"
+msgstr ""
+
+#: includes/defaults.php:298
+msgid "Flag O"
+msgstr ""
+
+#: includes/defaults.php:299
+msgid "Flask"
+msgstr ""
+
+#: includes/defaults.php:300
+msgid "Flickr"
+msgstr ""
+
+#: includes/defaults.php:301
+msgid "Floppy O"
+msgstr ""
+
+#: includes/defaults.php:302
+msgid "Folder"
+msgstr ""
+
+#: includes/defaults.php:303
+msgid "Folder O"
+msgstr ""
+
+#: includes/defaults.php:304
+msgid "Folder Open"
+msgstr ""
+
+#: includes/defaults.php:305
+msgid "Folder Open O"
+msgstr ""
+
+#: includes/defaults.php:306
+msgid "Font"
+msgstr ""
+
+#: includes/defaults.php:307
+msgid "FontImacons"
+msgstr ""
+
+#: includes/defaults.php:308
+msgid "Forumbee"
+msgstr ""
+
+#: includes/defaults.php:309
+msgid "Forward"
+msgstr ""
+
+#: includes/defaults.php:310
+msgid "Foursquare"
+msgstr ""
+
+#: includes/defaults.php:311
+msgid "Frown O"
+msgstr ""
+
+#: includes/defaults.php:312
+msgid "Futbol O"
+msgstr ""
+
+#: includes/defaults.php:313
+msgid "Gamepad"
+msgstr ""
+
+#: includes/defaults.php:314
+msgid "Gavel"
+msgstr ""
+
+#: includes/defaults.php:315
+msgid "Gbp"
+msgstr ""
+
+#: includes/defaults.php:316
+msgid "Genderless"
+msgstr ""
+
+#: includes/defaults.php:317
+msgid "Get Pocket"
+msgstr ""
+
+#: includes/defaults.php:318
+msgid "Gg"
+msgstr ""
+
+#: includes/defaults.php:319
+msgid "Gg Circle"
+msgstr ""
+
+#: includes/defaults.php:320
+msgid "Gift"
+msgstr ""
+
+#: includes/defaults.php:321
+msgid "Git"
+msgstr ""
+
+#: includes/defaults.php:322
+msgid "Git Square"
+msgstr ""
+
+#: includes/defaults.php:323
+msgid "Github"
+msgstr ""
+
+#: includes/defaults.php:324
+msgid "Github Alt"
+msgstr ""
+
+#: includes/defaults.php:325
+msgid "Github Square"
+msgstr ""
+
+#: includes/defaults.php:326
+msgid "Glass"
+msgstr ""
+
+#: includes/defaults.php:327
+msgid "Globe"
+msgstr ""
+
+#: includes/defaults.php:328
+msgid "Google"
+msgstr ""
+
+#: includes/defaults.php:329
+msgid "Google Plus"
+msgstr ""
+
+#: includes/defaults.php:330
+msgid "Google Plus Square"
+msgstr ""
+
+#: includes/defaults.php:331
+msgid "Google Wallet"
+msgstr ""
+
+#: includes/defaults.php:332
+msgid "Graduation Cap"
+msgstr ""
+
+#: includes/defaults.php:333
+msgid "Gratipay"
+msgstr ""
+
+#: includes/defaults.php:334
+msgid "H Square"
+msgstr ""
+
+#: includes/defaults.php:335
+msgid "Hacker News"
+msgstr ""
+
+#: includes/defaults.php:336
+msgid "Hand Lizard O"
+msgstr ""
+
+#: includes/defaults.php:337
+msgid "Hand O Down"
+msgstr ""
+
+#: includes/defaults.php:338
+msgid "Hand O Left"
+msgstr ""
+
+#: includes/defaults.php:339
+msgid "Hand O Right"
+msgstr ""
+
+#: includes/defaults.php:340
+msgid "Hand O Up"
+msgstr ""
+
+#: includes/defaults.php:341
+msgid "Hand Paper O"
+msgstr ""
+
+#: includes/defaults.php:342
+msgid "Hand Peace O"
+msgstr ""
+
+#: includes/defaults.php:343
+msgid "Hand Pointer O"
+msgstr ""
+
+#: includes/defaults.php:344
+msgid "Hand Rock O"
+msgstr ""
+
+#: includes/defaults.php:345
+msgid "Hand Scissors O"
+msgstr ""
+
+#: includes/defaults.php:346
+msgid "Hand Spock O"
+msgstr ""
+
+#: includes/defaults.php:347
+msgid "Hdd O"
+msgstr ""
+
+#: includes/defaults.php:348
+msgid "Header"
+msgstr ""
+
+#: includes/defaults.php:349
+msgid "Headphones"
+msgstr ""
+
+#: includes/defaults.php:350
+msgid "Heart"
+msgstr ""
+
+#: includes/defaults.php:351
+msgid "Heart O"
+msgstr ""
+
+#: includes/defaults.php:352
+msgid "Heartbeat"
+msgstr ""
+
+#: includes/defaults.php:353
+msgid "History"
+msgstr ""
+
+#: includes/defaults.php:354
+msgid "Home"
+msgstr ""
+
+#: includes/defaults.php:355
+msgid "Hospital O"
+msgstr ""
+
+#: includes/defaults.php:356
+msgid "Hourglass"
+msgstr ""
+
+#: includes/defaults.php:357
+msgid "Hourglass End"
+msgstr ""
+
+#: includes/defaults.php:358
+msgid "Hourglass Half"
+msgstr ""
+
+#: includes/defaults.php:359
+msgid "Hourglass O"
+msgstr ""
+
+#: includes/defaults.php:360
+msgid "Hourglass Start"
+msgstr ""
+
+#: includes/defaults.php:361
+msgid "Houzz"
+msgstr ""
+
+#: includes/defaults.php:362
+msgid "Html5"
+msgstr ""
+
+#: includes/defaults.php:363
+msgid "I Cursor"
+msgstr ""
+
+#: includes/defaults.php:364
+msgid "Ils"
+msgstr ""
+
+#: includes/defaults.php:365
+msgid "Inbox"
+msgstr ""
+
+#: includes/defaults.php:366
+msgid "Indent"
+msgstr ""
+
+#: includes/defaults.php:367
+msgid "Industry"
+msgstr ""
+
+#: includes/defaults.php:368
+msgid "Info"
+msgstr ""
+
+#: includes/defaults.php:369
+msgid "Info Circle"
+msgstr ""
+
+#: includes/defaults.php:370
+msgid "Inr"
+msgstr ""
+
+#: includes/defaults.php:371
+msgid "Instagram"
+msgstr ""
+
+#: includes/defaults.php:372
+msgid "Internet Explorer"
+msgstr ""
+
+#: includes/defaults.php:373
+msgid "Ioxhost"
+msgstr ""
+
+#: includes/defaults.php:374
+msgid "Italic"
+msgstr ""
+
+#: includes/defaults.php:375
+msgid "Joomla"
+msgstr ""
+
+#: includes/defaults.php:376
+msgid "Jpy"
+msgstr ""
+
+#: includes/defaults.php:377
+msgid "Jsfiddle"
+msgstr ""
+
+#: includes/defaults.php:378
+msgid "Key"
+msgstr ""
+
+#: includes/defaults.php:379
+msgid "Keyboard O"
+msgstr ""
+
+#: includes/defaults.php:380
+msgid "Krw"
+msgstr ""
+
+#: includes/defaults.php:381
+msgid "Language"
+msgstr ""
+
+#: includes/defaults.php:382
+msgid "Laptop"
+msgstr ""
+
+#: includes/defaults.php:383
+msgid "Lastfm"
+msgstr ""
+
+#: includes/defaults.php:384
+msgid "Lastfm Square"
+msgstr ""
+
+#: includes/defaults.php:385
+msgid "Leaf"
+msgstr ""
+
+#: includes/defaults.php:386
+msgid "Leanpub"
+msgstr ""
+
+#: includes/defaults.php:387
+msgid "Lemon O"
+msgstr ""
+
+#: includes/defaults.php:388
+msgid "Level Down"
+msgstr ""
+
+#: includes/defaults.php:389
+msgid "Level Up"
+msgstr ""
+
+#: includes/defaults.php:390
+msgid "Life Ring"
+msgstr ""
+
+#: includes/defaults.php:391
+msgid "Lightbulb O"
+msgstr ""
+
+#: includes/defaults.php:392
+msgid "Line Chart"
+msgstr ""
+
+#: includes/defaults.php:393
+msgid "Link"
+msgstr ""
+
+#: includes/defaults.php:394
+msgid "Linkedin"
+msgstr ""
+
+#: includes/defaults.php:395
+msgid "Linkedin Square"
+msgstr ""
+
+#: includes/defaults.php:396
+msgid "Linux"
+msgstr ""
+
+#: includes/defaults.php:397
+msgid "List"
+msgstr ""
+
+#: includes/defaults.php:398
+msgid "List Alt"
+msgstr ""
+
+#: includes/defaults.php:399
+msgid "List Ol"
+msgstr ""
+
+#: includes/defaults.php:400
+msgid "List Ul"
+msgstr ""
+
+#: includes/defaults.php:401
+msgid "Location Arrow"
+msgstr ""
+
+#: includes/defaults.php:402
+msgid "Lock"
+msgstr ""
+
+#: includes/defaults.php:403
+msgid "Long Arrow Down"
+msgstr ""
+
+#: includes/defaults.php:404
+msgid "Long Arrow Left"
+msgstr ""
+
+#: includes/defaults.php:405
+msgid "Long Arrow Right"
+msgstr ""
+
+#: includes/defaults.php:406
+msgid "Long Arrow Up"
+msgstr ""
+
+#: includes/defaults.php:407
+msgid "Magic"
+msgstr ""
+
+#: includes/defaults.php:408
+msgid "Magnet"
+msgstr ""
+
+#: includes/defaults.php:409
+msgid "Male"
+msgstr ""
+
+#: includes/defaults.php:410
+msgid "Map"
+msgstr ""
+
+#: includes/defaults.php:411
+msgid "Map Marker"
+msgstr ""
+
+#: includes/defaults.php:412
+msgid "Map O"
+msgstr ""
+
+#: includes/defaults.php:413
+msgid "Map Pin"
+msgstr ""
+
+#: includes/defaults.php:414
+msgid "Map Signs"
+msgstr ""
+
+#: includes/defaults.php:415
+msgid "Mars"
+msgstr ""
+
+#: includes/defaults.php:416
+msgid "Mars Double"
+msgstr ""
+
+#: includes/defaults.php:417
+msgid "Mars Stroke"
+msgstr ""
+
+#: includes/defaults.php:418
+msgid "Mars Stroke H"
+msgstr ""
+
+#: includes/defaults.php:419
+msgid "Mars Stroke V"
+msgstr ""
+
+#: includes/defaults.php:420
+msgid "Maxcdn"
+msgstr ""
+
+#: includes/defaults.php:421
+msgid "Meanpath"
+msgstr ""
+
+#: includes/defaults.php:422
+msgid "Medium"
+msgstr ""
+
+#: includes/defaults.php:423
+msgid "Medkit"
+msgstr ""
+
+#: includes/defaults.php:424
+msgid "Meh O"
+msgstr ""
+
+#: includes/defaults.php:425
+msgid "Mercury"
+msgstr ""
+
+#: includes/defaults.php:426
+msgid "Microphone"
+msgstr ""
+
+#: includes/defaults.php:427
+msgid "Microphone Slash"
+msgstr ""
+
+#: includes/defaults.php:428
+msgid "Minus"
+msgstr ""
+
+#: includes/defaults.php:429
+msgid "Minus Circle"
+msgstr ""
+
+#: includes/defaults.php:430
+msgid "Minus Square"
+msgstr ""
+
+#: includes/defaults.php:431
+msgid "Minus Square O"
+msgstr ""
+
+#: includes/defaults.php:432
+msgid "Mobile"
+msgstr ""
+
+#: includes/defaults.php:433
+msgid "Money"
+msgstr ""
+
+#: includes/defaults.php:434
+msgid "Moon O"
+msgstr ""
+
+#: includes/defaults.php:435
+msgid "Motorcycle"
+msgstr ""
+
+#: includes/defaults.php:436
+msgid "Mouse Pointer"
+msgstr ""
+
+#: includes/defaults.php:437
+msgid "Music"
+msgstr ""
+
+#: includes/defaults.php:438
+msgid "Neuter"
+msgstr ""
+
+#: includes/defaults.php:439
+msgid "Newspaper O"
+msgstr ""
+
+#: includes/defaults.php:440
+msgid "Object Group"
+msgstr ""
+
+#: includes/defaults.php:441
+msgid "Object Ungroup"
+msgstr ""
+
+#: includes/defaults.php:442
+msgid "Odnoklassniki"
+msgstr ""
+
+#: includes/defaults.php:443
+msgid "Odnoklassniki Square"
+msgstr ""
+
+#: includes/defaults.php:444
+msgid "Opencart"
+msgstr ""
+
+#: includes/defaults.php:445
+msgid "Openid"
+msgstr ""
+
+#: includes/defaults.php:446
+msgid "Opera"
+msgstr ""
+
+#: includes/defaults.php:447
+msgid "Optin Monster"
+msgstr ""
+
+#: includes/defaults.php:448
+msgid "Outdent"
+msgstr ""
+
+#: includes/defaults.php:449
+msgid "Pagelines"
+msgstr ""
+
+#: includes/defaults.php:450
+msgid "Paint Brush"
+msgstr ""
+
+#: includes/defaults.php:451
+msgid "Paper Plane"
+msgstr ""
+
+#: includes/defaults.php:452
+msgid "Paper Plane O"
+msgstr ""
+
+#: includes/defaults.php:453
+msgid "Paperclip"
+msgstr ""
+
+#: includes/defaults.php:454
+msgid "Paragraph"
+msgstr ""
+
+#: includes/defaults.php:455
+msgid "Pause"
+msgstr ""
+
+#: includes/defaults.php:456
+msgid "Paw"
+msgstr ""
+
+#: includes/defaults.php:457
+msgid "Paypal"
+msgstr ""
+
+#: includes/defaults.php:458
+msgid "Pencil"
+msgstr ""
+
+#: includes/defaults.php:459
+msgid "Pencil Square"
+msgstr ""
+
+#: includes/defaults.php:460
+msgid "Pencil Square O"
+msgstr ""
+
+#: includes/defaults.php:461
+msgid "Phone"
+msgstr ""
+
+#: includes/defaults.php:462
+msgid "Phone Square"
+msgstr ""
+
+#: includes/defaults.php:463
+msgid "Picture O"
+msgstr ""
+
+#: includes/defaults.php:464
+msgid "Pie Chart"
+msgstr ""
+
+#: includes/defaults.php:465
+msgid "Pied Piper"
+msgstr ""
+
+#: includes/defaults.php:466
+msgid "Pied Piper Alt"
+msgstr ""
+
+#: includes/defaults.php:467
+msgid "Pinterest"
+msgstr ""
+
+#: includes/defaults.php:468
+msgid "Pinterest P"
+msgstr ""
+
+#: includes/defaults.php:469
+msgid "Pinterest Square"
+msgstr ""
+
+#: includes/defaults.php:470
+msgid "Plane"
+msgstr ""
+
+#: includes/defaults.php:471
+msgid "Play"
+msgstr ""
+
+#: includes/defaults.php:472
+msgid "Play Circle"
+msgstr ""
+
+#: includes/defaults.php:473
+msgid "Play Circle O"
+msgstr ""
+
+#: includes/defaults.php:474
+msgid "Plug"
+msgstr ""
+
+#: includes/defaults.php:475
+msgid "Plus"
+msgstr ""
+
+#: includes/defaults.php:476
+msgid "Plus Circle"
+msgstr ""
+
+#: includes/defaults.php:477
+msgid "Plus Square"
+msgstr ""
+
+#: includes/defaults.php:478
+msgid "Plus Square O"
+msgstr ""
+
+#: includes/defaults.php:479
+msgid "Power Off"
+msgstr ""
+
+#: includes/defaults.php:480
+msgid "Print"
+msgstr ""
+
+#: includes/defaults.php:481
+msgid "Puzzle Piece"
+msgstr ""
+
+#: includes/defaults.php:482
+msgid "Qq"
+msgstr ""
+
+#: includes/defaults.php:483
+msgid "Qrcode"
+msgstr ""
+
+#: includes/defaults.php:484
+msgid "Question"
+msgstr ""
+
+#: includes/defaults.php:485
+msgid "Question Circle"
+msgstr ""
+
+#: includes/defaults.php:486
+msgid "Quote Left"
+msgstr ""
+
+#: includes/defaults.php:487
+msgid "Quote Right"
+msgstr ""
+
+#: includes/defaults.php:488
+msgid "Random"
+msgstr ""
+
+#: includes/defaults.php:489
+msgid "Rebel"
+msgstr ""
+
+#: includes/defaults.php:490
+msgid "Recycle"
+msgstr ""
+
+#: includes/defaults.php:491
+msgid "Reddit"
+msgstr ""
+
+#: includes/defaults.php:492
+msgid "Reddit Square"
+msgstr ""
+
+#: includes/defaults.php:493
+msgid "Refresh"
+msgstr ""
+
+#: includes/defaults.php:494
+msgid "Registered"
+msgstr ""
+
+#: includes/defaults.php:495
+msgid "Renren"
+msgstr ""
+
+#: includes/defaults.php:496
+msgid "Repeat"
+msgstr ""
+
+#: includes/defaults.php:497
+msgid "Reply"
+msgstr ""
+
+#: includes/defaults.php:498
+msgid "Reply All"
+msgstr ""
+
+#: includes/defaults.php:499
+msgid "Retweet"
+msgstr ""
+
+#: includes/defaults.php:500
+msgid "Road"
+msgstr ""
+
+#: includes/defaults.php:501
+msgid "Rocket"
+msgstr ""
+
+#: includes/defaults.php:502
+msgid "Rss"
+msgstr ""
+
+#: includes/defaults.php:503
+msgid "Rss Square"
+msgstr ""
+
+#: includes/defaults.php:504
+msgid "Rub"
+msgstr ""
+
+#: includes/defaults.php:505
+msgid "Safari"
+msgstr ""
+
+#: includes/defaults.php:506
+msgid "Scissors"
+msgstr ""
+
+#: includes/defaults.php:507
+msgid "Search"
+msgstr ""
+
+#: includes/defaults.php:508
+msgid "Search Minus"
+msgstr ""
+
+#: includes/defaults.php:509
+msgid "Search Plus"
+msgstr ""
+
+#: includes/defaults.php:510
+msgid "Sellsy"
+msgstr ""
+
+#: includes/defaults.php:511
+msgid "Server"
+msgstr ""
+
+#: includes/defaults.php:512
+msgid "Share"
+msgstr ""
+
+#: includes/defaults.php:513
+msgid "Share Alt"
+msgstr ""
+
+#: includes/defaults.php:514
+msgid "Share Alt Square"
+msgstr ""
+
+#: includes/defaults.php:515
+msgid "Share Square"
+msgstr ""
+
+#: includes/defaults.php:516
+msgid "Share Square O"
+msgstr ""
+
+#: includes/defaults.php:517
+msgid "Shield"
+msgstr ""
+
+#: includes/defaults.php:518
+msgid "Ship"
+msgstr ""
+
+#: includes/defaults.php:519
+msgid "Shirtsinbulk"
+msgstr ""
+
+#: includes/defaults.php:520
+msgid "Shopping Cart"
+msgstr ""
+
+#: includes/defaults.php:521
+msgid "Sign In"
+msgstr ""
+
+#: includes/defaults.php:522
+msgid "Sign Out"
+msgstr ""
+
+#: includes/defaults.php:523
+msgid "Signal"
+msgstr ""
+
+#: includes/defaults.php:524
+msgid "Simplybuilt"
+msgstr ""
+
+#: includes/defaults.php:525
+msgid "Sitemap"
+msgstr ""
+
+#: includes/defaults.php:526
+msgid "Skyatlas"
+msgstr ""
+
+#: includes/defaults.php:527
+msgid "Skype"
+msgstr ""
+
+#: includes/defaults.php:528
+msgid "Slack"
+msgstr ""
+
+#: includes/defaults.php:529
+msgid "Sliders"
+msgstr ""
+
+#: includes/defaults.php:530
+msgid "Slideshare"
+msgstr ""
+
+#: includes/defaults.php:531
+msgid "Smile O"
+msgstr ""
+
+#: includes/defaults.php:532
+msgid "Sort"
+msgstr ""
+
+#: includes/defaults.php:533
+msgid "Sort Alpha Asc"
+msgstr ""
+
+#: includes/defaults.php:534
+msgid "Sort Alpha Desc"
+msgstr ""
+
+#: includes/defaults.php:535
+msgid "Sort Amount Asc"
+msgstr ""
+
+#: includes/defaults.php:536
+msgid "Sort Amount Desc"
+msgstr ""
+
+#: includes/defaults.php:537
+msgid "Sort Asc"
+msgstr ""
+
+#: includes/defaults.php:538
+msgid "Sort Desc"
+msgstr ""
+
+#: includes/defaults.php:539
+msgid "Sort Numeric Asc"
+msgstr ""
+
+#: includes/defaults.php:540
+msgid "Sort Numeric Desc"
+msgstr ""
+
+#: includes/defaults.php:541
+msgid "Soundcloud"
+msgstr ""
+
+#: includes/defaults.php:542
+msgid "Space Shuttle"
+msgstr ""
+
+#: includes/defaults.php:543
+msgid "Spinner"
+msgstr ""
+
+#: includes/defaults.php:544
+msgid "Spoon"
+msgstr ""
+
+#: includes/defaults.php:545
+msgid "Spotify"
+msgstr ""
+
+#: includes/defaults.php:546
+msgid "Square"
+msgstr ""
+
+#: includes/defaults.php:547
+msgid "Square O"
+msgstr ""
+
+#: includes/defaults.php:548
+msgid "Stack Exchange"
+msgstr ""
+
+#: includes/defaults.php:549
+msgid "Stack Overflow"
+msgstr ""
+
+#: includes/defaults.php:550
+msgid "Star"
+msgstr ""
+
+#: includes/defaults.php:551
+msgid "Star Half"
+msgstr ""
+
+#: includes/defaults.php:552
+msgid "Star Half O"
+msgstr ""
+
+#: includes/defaults.php:553
+msgid "Star O"
+msgstr ""
+
+#: includes/defaults.php:554
+msgid "Steam"
+msgstr ""
+
+#: includes/defaults.php:555
+msgid "Steam Square"
+msgstr ""
+
+#: includes/defaults.php:556
+msgid "Step Backward"
+msgstr ""
+
+#: includes/defaults.php:557
+msgid "Step Forward"
+msgstr ""
+
+#: includes/defaults.php:558
+msgid "Stethoscope"
+msgstr ""
+
+#: includes/defaults.php:559
+msgid "Sticky Note"
+msgstr ""
+
+#: includes/defaults.php:560
+msgid "Sticky Note O"
+msgstr ""
+
+#: includes/defaults.php:561
+msgid "Stop"
+msgstr ""
+
+#: includes/defaults.php:562
+msgid "Street View"
+msgstr ""
+
+#: includes/defaults.php:563
+msgid "Strikethrough"
+msgstr ""
+
+#: includes/defaults.php:564
+msgid "Stumbleupon"
+msgstr ""
+
+#: includes/defaults.php:565
+msgid "Stumbleupon Circle"
+msgstr ""
+
+#: includes/defaults.php:566
+msgid "Subscript"
+msgstr ""
+
+#: includes/defaults.php:567
+msgid "Subway"
+msgstr ""
+
+#: includes/defaults.php:568
+msgid "Suitcase"
+msgstr ""
+
+#: includes/defaults.php:569
+msgid "Sun O"
+msgstr ""
+
+#: includes/defaults.php:570
+msgid "Superscript"
+msgstr ""
+
+#: includes/defaults.php:571
+msgid "Table"
+msgstr ""
+
+#: includes/defaults.php:572
+msgid "Tablet"
+msgstr ""
+
+#: includes/defaults.php:573
+msgid "Tachometer"
+msgstr ""
+
+#: includes/defaults.php:574
+msgid "Tag"
+msgstr ""
+
+#: includes/defaults.php:575
+msgid "Tags"
+msgstr ""
+
+#: includes/defaults.php:576
+msgid "Tasks"
+msgstr ""
+
+#: includes/defaults.php:577
+msgid "Taxi"
+msgstr ""
+
+#: includes/defaults.php:578
+msgid "Television"
+msgstr ""
+
+#: includes/defaults.php:579
+msgid "Tencent Weibo"
+msgstr ""
+
+#: includes/defaults.php:580
+msgid "Terminal"
+msgstr ""
+
+#: includes/defaults.php:581
+msgid "Text Height"
+msgstr ""
+
+#: includes/defaults.php:582
+msgid "Text Width"
+msgstr ""
+
+#: includes/defaults.php:583
+msgid "Th"
+msgstr ""
+
+#: includes/defaults.php:584
+msgid "Th Large"
+msgstr ""
+
+#: includes/defaults.php:585
+msgid "Th List"
+msgstr ""
+
+#: includes/defaults.php:586
+msgid "Thumb Tack"
+msgstr ""
+
+#: includes/defaults.php:587
+msgid "Thumbs Down"
+msgstr ""
+
+#: includes/defaults.php:588
+msgid "Thumbs O Down"
+msgstr ""
+
+#: includes/defaults.php:589
+msgid "Thumbs O Up"
+msgstr ""
+
+#: includes/defaults.php:590
+msgid "Thumbs Up"
+msgstr ""
+
+#: includes/defaults.php:591
+msgid "Ticket"
+msgstr ""
+
+#: includes/defaults.php:592
+msgid "Times"
+msgstr ""
+
+#: includes/defaults.php:593
+msgid "Times Circle"
+msgstr ""
+
+#: includes/defaults.php:594
+msgid "Times Circle O"
+msgstr ""
+
+#: includes/defaults.php:595
+msgid "Tint"
+msgstr ""
+
+#: includes/defaults.php:596
+msgid "Toggle Off"
+msgstr ""
+
+#: includes/defaults.php:597
+msgid "Toggle On"
+msgstr ""
+
+#: includes/defaults.php:598
+msgid "Trademark"
+msgstr ""
+
+#: includes/defaults.php:599
+msgid "Train"
+msgstr ""
+
+#: includes/defaults.php:600
+msgid "Transgender"
+msgstr ""
+
+#: includes/defaults.php:601
+msgid "Transgender Alt"
+msgstr ""
+
+#: includes/defaults.php:602
+msgid "Trash"
+msgstr ""
+
+#: includes/defaults.php:603
+msgid "Trash O"
+msgstr ""
+
+#: includes/defaults.php:604
+msgid "Tree"
+msgstr ""
+
+#: includes/defaults.php:605
+msgid "Trello"
+msgstr ""
+
+#: includes/defaults.php:606
+msgid "Tripadvisor"
+msgstr ""
+
+#: includes/defaults.php:607
+msgid "Trophy"
+msgstr ""
+
+#: includes/defaults.php:608
+msgid "Truck"
+msgstr ""
+
+#: includes/defaults.php:609
+msgid "Try"
+msgstr ""
+
+#: includes/defaults.php:610
+msgid "Tty"
+msgstr ""
+
+#: includes/defaults.php:611
+msgid "Tumblr"
+msgstr ""
+
+#: includes/defaults.php:612
+msgid "Tumblr Square"
+msgstr ""
+
+#: includes/defaults.php:613
+msgid "Twitch"
+msgstr ""
+
+#: includes/defaults.php:614
+msgid "Twitter"
+msgstr ""
+
+#: includes/defaults.php:615
+msgid "Twitter Square"
+msgstr ""
+
+#: includes/defaults.php:616
+msgid "Umbrella"
+msgstr ""
+
+#: includes/defaults.php:617
+msgid "Underline"
+msgstr ""
+
+#: includes/defaults.php:618
+msgid "Undo"
+msgstr ""
+
+#: includes/defaults.php:619
+msgid "University"
+msgstr ""
+
+#: includes/defaults.php:620
+msgid "Unlock"
+msgstr ""
+
+#: includes/defaults.php:621
+msgid "Unlock Alt"
+msgstr ""
+
+#: includes/defaults.php:622
+msgid "Upload"
+msgstr ""
+
+#: includes/defaults.php:623
+msgid "Usd"
+msgstr ""
+
+#: includes/defaults.php:624
+msgid "User"
+msgstr ""
+
+#: includes/defaults.php:625
+msgid "User Md"
+msgstr ""
+
+#: includes/defaults.php:626
+msgid "User Plus"
+msgstr ""
+
+#: includes/defaults.php:627
+msgid "User Secret"
+msgstr ""
+
+#: includes/defaults.php:628
+msgid "User Times"
+msgstr ""
+
+#: includes/defaults.php:629
+msgid "Users"
+msgstr ""
+
+#: includes/defaults.php:630
+msgid "Venus"
+msgstr ""
+
+#: includes/defaults.php:631
+msgid "Venus Double"
+msgstr ""
+
+#: includes/defaults.php:632
+msgid "Venus Mars"
+msgstr ""
+
+#: includes/defaults.php:633
+msgid "Viacoin"
+msgstr ""
+
+#: includes/defaults.php:634
+msgid "Video Camera"
+msgstr ""
+
+#: includes/defaults.php:635
+msgid "Vimeo"
+msgstr ""
+
+#: includes/defaults.php:636
+msgid "Vimeo Square"
+msgstr ""
+
+#: includes/defaults.php:637
+msgid "Vine"
+msgstr ""
+
+#: includes/defaults.php:638
+msgid "Vk"
+msgstr ""
+
+#: includes/defaults.php:639
+msgid "Volume Down"
+msgstr ""
+
+#: includes/defaults.php:640
+msgid "Volume Off"
+msgstr ""
+
+#: includes/defaults.php:641
+msgid "Volume Up"
+msgstr ""
+
+#: includes/defaults.php:642
+msgid "Weibo"
+msgstr ""
+
+#: includes/defaults.php:643
+msgid "Weixin"
+msgstr ""
+
+#: includes/defaults.php:644
+msgid "Whatsapp"
+msgstr ""
+
+#: includes/defaults.php:645
+msgid "Wheelchair"
+msgstr ""
+
+#: includes/defaults.php:646
+msgid "Wifi"
+msgstr ""
+
+#: includes/defaults.php:647
+msgid "Wikipedia W"
+msgstr ""
+
+#: includes/defaults.php:648
+msgid "Windows"
+msgstr ""
+
+#: includes/defaults.php:649
+msgid "Wordpress"
+msgstr ""
+
+#: includes/defaults.php:650
+msgid "Wrench"
+msgstr ""
+
+#: includes/defaults.php:651
+msgid "Xing"
+msgstr ""
+
+#: includes/defaults.php:652
+msgid "Xing Square"
+msgstr ""
+
+#: includes/defaults.php:653
+msgid "Y Combinator"
+msgstr ""
+
+#: includes/defaults.php:654
+msgid "Yahoo"
+msgstr ""
+
+#: includes/defaults.php:655
+msgid "Yelp"
+msgstr ""
+
+#: includes/defaults.php:656
+msgid "Youtube"
+msgstr ""
+
+#: includes/defaults.php:657
+msgid "Youtube Play"
+msgstr ""
+
+#: includes/defaults.php:658
+msgid "Youtube Square"
+msgstr ""
+
+#: includes/setup.php:25
+msgid "Image"
+msgstr ""
+
+#: includes/setup.php:30
+msgid "Icon"
+msgstr ""
+
+#: includes/setup.php:36
+msgid "Title"
+msgstr ""
+
+#: includes/setup.php:40
+msgid "Content"
+msgstr ""
+
+#: includes/setup.php:63
+msgid "Image Size"
+msgstr ""
+
+#: includes/setup.php:68
+msgid "Link Wrap"
+msgstr ""
+
+#: includes/setup.php:74
+msgid "Link To"
+msgstr ""

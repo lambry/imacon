@@ -14,9 +14,9 @@
 		events: function() {
 			$( 'body' ).on( 'click', '.imacon-preview', this.selectImage );
 			$( 'body' ).on( 'click', '.imacon-remove-image', this.removeImage );
-			$( document ).on( 'ready widget-added widget-updated', function() {
-				Imacon.initSelect( $( '.widget-liquid-right .imacon-select' ) );
-				Imacon.initSort( $( '.widget-liquid-right .imacon-sortable' ) );
+			$( document ).on( 'ready widget-added widget-updated', function(e) {
+				Imacon.initSelect( $( '#widgets-right .imacon-select' ) );
+				Imacon.initSort( $( '#widgets-right .imacon-sortable' ) );
 			} );
 		},
 		/*** Initilize select2 ***/

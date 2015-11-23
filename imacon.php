@@ -36,6 +36,7 @@ class Init extends \WP_Widget {
 
         // Add admin assets
         add_action( 'admin_enqueue_scripts', [ $this, 'admin_assets' ] );
+        add_action( 'customize_controls_enqueue_scripts', [ $this, 'admin_assets' ] );
         // Add public assets
         add_action( 'wp_enqueue_scripts', [ $this, 'public_assets'] );
 
@@ -74,23 +75,24 @@ class Init extends \WP_Widget {
      * Include admin assets.
      *
      * @access public
-     * @param  string $hook
      * @return null
      */
-    public function admin_assets( $hook ) {
+    public function admin_assets() {
 
-        if ( $hook === 'widgets.php' ) {
+        $screen = get_current_screen();
 
-            // Add styles
-            wp_enqueue_style( 'font-awesome', plugin_dir_url( __FILE__ ) . 'includes/font-awesome/css/font-awesome.min.css', [], '4.4.0' );
-            wp_enqueue_style( 'select2', plugin_dir_url( __FILE__ ) . 'includes/select2/css/select2.min.css', [], '4.0.0' );
-            wp_enqueue_style( 'imacon-admin', plugin_dir_url( __FILE__ ) . 'admin/assets/styles/admin.css', ['font-awesome', 'select2'], '0.2.0' );
-            /// Add scripts
-            wp_enqueue_media();
-            wp_enqueue_script( 'select2', plugin_dir_url( __FILE__ ) . 'includes/select2/js/select2.min.js', ['jquery'], '4.0.0', true );
-            wp_enqueue_script( 'imacon-admin', plugin_dir_url( __FILE__ ) . 'admin/assets/scripts/admin.min.js', ['jquery', 'select2'], '0.2.0', true );
-
+        if ( $screen->base !== 'widgets' && $screen->base !== 'customize' ) {
+            return;
         }
+
+        // Add styles
+        wp_enqueue_style( 'font-awesome', plugin_dir_url( __FILE__ ) . 'includes/font-awesome/css/font-awesome.min.css', [], '4.4.0' );
+        wp_enqueue_style( 'select2', plugin_dir_url( __FILE__ ) . 'includes/select2/css/select2.min.css', [], '4.0.0' );
+        wp_enqueue_style( 'imacon-admin', plugin_dir_url( __FILE__ ) . 'admin/assets/styles/admin.css', ['font-awesome', 'select2'], '0.2.0' );
+        /// Add scripts
+        wp_enqueue_media();
+        wp_enqueue_script( 'select2', plugin_dir_url( __FILE__ ) . 'includes/select2/js/select2.min.js', ['jquery'], '4.0.0', true );
+        wp_enqueue_script( 'imacon-admin', plugin_dir_url( __FILE__ ) . 'admin/assets/scripts/admin.min.js', ['jquery', 'select2'], '0.2.0', true );
 
     }
 

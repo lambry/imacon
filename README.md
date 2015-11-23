@@ -1,3 +1,3 @@
 #Imacon
 
-A sortable widget that displays an image/icon with optional title and description.
+A sortable widget that displays an image/icon with title, description and link.

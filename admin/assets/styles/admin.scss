@@ -18,8 +18,8 @@ $color-white: #fcfcfc;
     }
     /* Sorting */
     &-sortable {
+        position: relative;
         padding-bottom: 1em;
-        border-bottom: 1px solid $color-grey;
         .imacon-field:before {
             cursor: move;
             color: $color-grey;
@@ -30,6 +30,16 @@ $color-white: #fcfcfc;
             top: 0.4em;
             left: -0.5em;
             z-index: 1;
+        }
+        &:after {
+            content: '';
+            height: 1px;
+            width: 95%;
+            display: block;
+            bottom: 0;
+            position: absolute;
+            margin-left: 2.5%;
+            background-color:  $color-silver;
         }
     }
     &-sort-gap {
@@ -82,4 +92,14 @@ $color-white: #fcfcfc;
             border-color: darken($color-silver, 2.5%);
         }
     }
+}
+
+/* Select2 Fixes */
+.select2-dropdown {
+    z-index: 999999;
+}
+
+/* Widget Icon */
+#available-widgets [class*="imacon"] .widget-title:before {
+    content: "\f233";
 }

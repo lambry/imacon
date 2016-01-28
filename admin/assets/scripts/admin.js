@@ -34,7 +34,7 @@
 		},
 		/*** Initilize sortable ***/
 		initSort: function( el ) {
-			el.sortable( { 
+			el.sortable( {
 				placeholder : 'imacon-sort-gap',
 				stop: function( event, ui ) {
 					var sort = '',
@@ -69,7 +69,7 @@
 		/*** Add image to widget ***/
 		addImage: function( container, attachment ) {
 			container.find( '.imacon-preview img' ).attr( 'src', attachment.url );
-			container.find( '.imacon-image' ).val( attachment.id );
+			container.find( '.imacon-image' ).val( attachment.id ).trigger( 'change' );
 			container.find( '.imacon-remove-image' ).removeClass( 'hidden' );
 		},
 		/*** Remove the image ***/
@@ -77,7 +77,7 @@
 			var container = $( this ).parents( '.imacon' );
 			// Remove preview and value
 			$( this ).addClass( 'hidden' );
-			container.find( '.imacon-image' ).val( 0 );
+			container.find( '.imacon-image' ).val( 0 ).trigger( 'change' );
 			container.find( '.imacon-preview img' ).attr( 'src', Imacon.placeholder );
 		}
 	};

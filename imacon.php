@@ -52,9 +52,9 @@ class Init extends \WP_Widget {
      */
     private function includes() {
 
-        require 'includes/setup.php';
-        require 'includes/defaults.php';
-        require 'includes/helpers.php';
+        require 'helpers/setup.php';
+        require 'helpers/defaults.php';
+        require 'helpers/helpers.php';
 
         if ( is_admin() ) {
 
@@ -105,11 +105,11 @@ class Init extends \WP_Widget {
      * @return null
      */
     public function public_assets() {
-        
+
         // Add styles
         wp_enqueue_style( 'font-awesome', plugin_dir_url( __FILE__ ) . 'includes/font-awesome/css/font-awesome.min.css', [], '4.4.0' );
         wp_enqueue_style( 'imacon-public', plugin_dir_url( __FILE__ ) . 'public/assets/styles/public.css', [], '0.2.0' );
-    
+
     }
 
     /**
@@ -147,7 +147,7 @@ class Init extends \WP_Widget {
         extract( $instance, EXTR_SKIP );
         $widget = $this;
 
-        require 'admin/form.php';      
+        require 'admin/form.php';
 
     }
 

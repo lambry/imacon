@@ -43,7 +43,7 @@
 					container.find( '.imacon-sortable .imacon-field' ).each( function(index, val) {
 						sort += $(this).data( 'id' ) + ',';
 					} );
-					container.find( '.imacon-sort' ).val( sort );
+					container.find( '.imacon-sort' ).val( sort ).trigger( 'change' );
 				}
 			} );
 		},
